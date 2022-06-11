@@ -1,0 +1,55 @@
+2022-06-10 13:02:43,031  INFO [main] BANKING:37 - Enter the Username
+2022-06-10 13:02:43,083  INFO [main] BANKING:40 - Enter the Password
+2022-06-10 13:02:46,080  INFO [main] BANKING:43 - Click on LoginButton
+2022-06-10 13:02:46,089  INFO [main] BANKING:15 - Verify the Test Case
+2022-06-10 13:05:00,161  INFO [main] BANKING:37 - Enter the Username
+2022-06-10 13:05:00,211  INFO [main] BANKING:40 - Enter the Password
+2022-06-10 13:05:02,476  INFO [main] BANKING:43 - Click on LoginButton
+2022-06-10 13:05:02,484  INFO [main] BANKING:15 - Verify the Test Case
+2022-06-10 13:08:43,741  INFO [main] BANKING:37 - Enter the Username
+2022-06-10 13:08:43,810  INFO [main] BANKING:40 - Enter the Password
+2022-06-10 13:08:46,449  INFO [main] BANKING:43 - Click on LoginButton
+2022-06-10 13:08:46,459  INFO [main] BANKING:15 - Verify the Test Case
+2022-06-10 13:57:25,114  INFO [main] BANKING:37 - Enter the Username
+2022-06-10 13:57:25,175  INFO [main] BANKING:40 - Enter the Password
+2022-06-10 13:57:48,212  INFO [main] BANKING:43 - Click on LoginButton
+2022-06-10 13:57:48,224  INFO [main] BANKING:17 - Verify the Test Case
+2022-06-10 13:57:49,423  INFO [main] BANKING:31 - Click on LogoutButton
+2022-06-10 18:00:44,917  INFO [main] BANKING:37 - Enter the UserID
+2022-06-10 18:00:44,975  INFO [main] BANKING:40 - Enter the Password
+2022-06-10 18:00:45,014  INFO [main] BANKING:43 - Click on LoginButton
+2022-06-10 18:00:45,298  INFO [main] BANKING:46 - Enter the Pin
+2022-06-10 18:00:45,326  INFO [main] BANKING:49 - Click on ContinueButton
+2022-06-10 18:00:45,334  INFO [main] BANKING:17 - Verify the Test Case
+2022-06-10 18:04:53,292  INFO [main] BANKING:37 - Enter the UserID
+2022-06-10 18:04:53,349  INFO [main] BANKING:40 - Enter the Password
+2022-06-10 18:04:53,386  INFO [main] BANKING:43 - Click on LoginButton
+2022-06-10 18:04:53,794  INFO [main] BANKING:46 - Enter the Pin
+2022-06-10 18:04:53,821  INFO [main] BANKING:49 - Click on ContinueButton
+2022-06-10 18:04:53,830  INFO [main] BANKING:17 - Verify the Test Case
+2022-06-10 18:05:46,934  INFO [main] BANKING:37 - Enter the UserID
+2022-06-10 18:05:46,994  INFO [main] BANKING:40 - Enter the Password
+2022-06-10 18:05:47,034  INFO [main] BANKING:43 - Click on LoginButton
+2022-06-10 18:05:47,390  INFO [main] BANKING:46 - Enter the Pin
+2022-06-10 18:05:47,418  INFO [main] BANKING:49 - Click on ContinueButton
+2022-06-10 18:05:47,426  INFO [main] BANKING:17 - Verify the Test Case
+2022-06-10 18:06:58,970  INFO [main] BANKING:37 - Enter the UserID
+2022-06-10 18:06:59,030  INFO [main] BANKING:40 - Enter the Password
+2022-06-10 18:06:59,067  INFO [main] BANKING:43 - Click on LoginButton
+2022-06-10 18:06:59,170  INFO [main] BANKING:46 - Enter the Pin
+2022-06-10 18:06:59,198  INFO [main] BANKING:49 - Click on ContinueButton
+2022-06-10 18:06:59,206  INFO [main] BANKING:15 - Kite - Zerodha's fast and elegant flagship trading platform
+2022-06-10 18:06:59,209  INFO [main] BANKING:18 - Verify the Test Case
+2022-06-10 18:07:46,475  INFO [main] BANKING:37 - Enter the UserID
+2022-06-10 18:07:46,532  INFO [main] BANKING:40 - Enter the Password
+2022-06-10 18:07:46,570  INFO [main] BANKING:43 - Click on LoginButton
+2022-06-10 18:07:46,662  INFO [main] BANKING:46 - Enter the Pin
+2022-06-10 18:07:46,691  INFO [main] BANKING:49 - Click on ContinueButton
+2022-06-10 18:07:46,698  INFO [main] BANKING:15 - Kite - Zerodha's fast and elegant flagship trading platform
+2022-06-10 18:07:46,702  INFO [main] BANKING:18 - Verify the Test Case
+2022-06-11 07:30:54,350  INFO [main] BANKING:37 - Enter the UserID
+2022-06-11 07:30:54,415  INFO [main] BANKING:40 - Enter the Password
+2022-06-11 07:30:54,453  INFO [main] BANKING:43 - Click on LoginButton
+2022-06-11 07:30:54,933  INFO [main] BANKING:46 - Enter the Pin
+2022-06-11 07:30:54,962  INFO [main] BANKING:49 - Click on ContinueButton
+2022-06-11 07:30:54,971  INFO [main] BANKING:17 - Verify the Test Case
