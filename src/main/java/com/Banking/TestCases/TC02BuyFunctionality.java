@@ -1,12 +1,15 @@
 package com.Banking.TestCases;
 
+import java.io.IOException;
+
 import org.testng.annotations.Test;
 
 import com.Banking.POMClasses.HomePagePomClass;
+import com.Banking.Utility.ScreenshotClass;
 
 public class TC02BuyFunctionality extends BaseClass {
 	@Test
-	public void buyingTest() throws InterruptedException {
+	public void buyingTest() throws InterruptedException, IOException {
 		HomePagePomClass hp = new HomePagePomClass(driver);
 
 		hp.invest();
@@ -27,6 +30,7 @@ public class TC02BuyFunctionality extends BaseClass {
 		hp.marketType();
 		log.info("select market type");
 		hp.placeOrder();
+		ScreenshotClass.ScreenShot(driver);
 		log.info("clicked on Buy button");
 	}
 
